@@ -7,6 +7,9 @@
     "email": "raineorshine@gmail.com",
     "url": "https://github.com/raineorshine"
   },
+  "bin": {
+    "iserc20": "bin.js"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
