@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "email": "raineorshine@gmail.com",
+    "url": "https://github.com/raineorshine"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "nightmare": "^2.10.0"
+  }
+}
