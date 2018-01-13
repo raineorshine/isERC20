@@ -1,7 +1,7 @@
 {
   "name": "iserc20",
   "description": "Check CoinMarketCap if a token is an ERC20 token",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Raine Revere",
     "email": "raineorshine@gmail.com",
